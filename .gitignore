@@ -1,0 +1,11 @@
+# ignores unwanted files.
+
+target/
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+*.class
