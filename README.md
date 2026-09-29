@@ -18,7 +18,7 @@ and summarizes the numbers into a shortened string, with sequential numbers coll
 - Negative numbers are supported
 
 # Running the system
-
+- Clone repository: ```git clone <http/ssh url>```
 - Compile with ```mvn clean compile```
 - Run unit tests: ```mvn clean test``` or ```mvn clean install```
 
