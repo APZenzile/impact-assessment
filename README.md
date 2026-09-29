@@ -21,3 +21,8 @@ and summarizes the numbers into a shortened string, with sequential numbers coll
 
 - Compile with ```mvn clean compile```
 - Run unit tests: ```mvn clean test``` or ```mvn clean install```
+
+# Requirements
+
+- Java 8 (atleast)
+- Maven build system (https://maven.apache.org/install.html)
