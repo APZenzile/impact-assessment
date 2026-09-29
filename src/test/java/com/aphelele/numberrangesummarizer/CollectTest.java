@@ -27,7 +27,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 public class CollectTest {
-    // Rename to match your implementation class.
     private Summarizer summarizer;
 
     @BeforeEach
