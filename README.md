@@ -19,6 +19,7 @@ and summarizes the numbers into a shortened string, with sequential numbers coll
 
 # Running the system
 - Clone repository: ```git clone <http/ssh url>```
+- Navigate to project root dir: ```cd impact-assessment```
 - Compile with ```mvn clean compile```
 - Run unit tests: ```mvn clean test``` or ```mvn clean install```
 
